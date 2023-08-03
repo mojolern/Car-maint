@@ -1,0 +1,13 @@
+C:\Users\xiong\source\repos\JoeXiongFinalProject\JoeXiongFinalProject\bin\Debug\JoeXiongFinalProject.exe.config
+C:\Users\xiong\source\repos\JoeXiongFinalProject\JoeXiongFinalProject\bin\Debug\JoeXiongFinalProject.exe
+C:\Users\xiong\source\repos\JoeXiongFinalProject\JoeXiongFinalProject\bin\Debug\JoeXiongFinalProject.pdb
+C:\Users\xiong\source\repos\JoeXiongFinalProject\JoeXiongFinalProject\obj\Debug\JoeXiongFinalProject.csprojAssemblyReference.cache
+C:\Users\xiong\source\repos\JoeXiongFinalProject\JoeXiongFinalProject\obj\Debug\JoeXiongFinalProject.MainForm.resources
+C:\Users\xiong\source\repos\JoeXiongFinalProject\JoeXiongFinalProject\obj\Debug\JoeXiongFinalProject.NewEntryForm.resources
+C:\Users\xiong\source\repos\JoeXiongFinalProject\JoeXiongFinalProject\obj\Debug\JoeXiongFinalProject.Properties.Resources.resources
+C:\Users\xiong\source\repos\JoeXiongFinalProject\JoeXiongFinalProject\obj\Debug\JoeXiongFinalProject.csproj.GenerateResource.cache
+C:\Users\xiong\source\repos\JoeXiongFinalProject\JoeXiongFinalProject\obj\Debug\JoeXiongFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\xiong\source\repos\JoeXiongFinalProject\JoeXiongFinalProject\obj\Debug\JoeXiongFinalProject.exe
+C:\Users\xiong\source\repos\JoeXiongFinalProject\JoeXiongFinalProject\obj\Debug\JoeXiongFinalProject.pdb
+C:\Users\xiong\source\repos\JoeXiongFinalProject\JoeXiongFinalProject\obj\Debug\JoeXiongFinalProject.EditForm.resources
+C:\Users\xiong\source\repos\JoeXiongFinalProject\JoeXiongFinalProject\obj\Debug\JoeXiongFinalProject.Status.resources
